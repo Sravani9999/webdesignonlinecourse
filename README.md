@@ -10,3 +10,15 @@ this repo contain online web design course using reactjs
 **This is bold type of fontstyle**
 *This is italic type of fontstyle*
 ***This is both bold and italic***
+
+1. Fruits
+   1. Mangoes
+   2. banana
+   3. apple
+   4. orange
+
+* vegetables
+  * tamato
+  * potato
+  * spinach
+  * onion
